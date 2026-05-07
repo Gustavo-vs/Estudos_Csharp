@@ -1,0 +1,14 @@
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\bin\Debug\net10.0\01_visao_geral_sintaxe.exe
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\bin\Debug\net10.0\01_visao_geral_sintaxe.deps.json
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\bin\Debug\net10.0\01_visao_geral_sintaxe.runtimeconfig.json
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\bin\Debug\net10.0\01_visao_geral_sintaxe.dll
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\bin\Debug\net10.0\01_visao_geral_sintaxe.pdb
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.AssemblyInfoInputs.cache
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.AssemblyInfo.cs
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.dll
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\refint\01_visao_geral_sintaxe.dll
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.pdb
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\01_visao_geral_sintaxe.genruntimeconfig.cache
+C:\Users\sgust\OneDrive\Desktop\c#_impacta\01_conceitos\01_visao_geral_sintaxe\obj\Debug\net10.0\ref\01_visao_geral_sintaxe.dll
