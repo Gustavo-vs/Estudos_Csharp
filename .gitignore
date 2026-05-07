@@ -1,0 +1,17 @@
+# Pastas de compilação (NÃO subir para o GitHub)
+bin/
+obj/
+
+# Arquivos de configuração locais do Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# Mac OS (Caso use ou trabalhe com alguém que use)
+.DS_Store
+
+# Logs e resultados de testes
+*.log
+TestResults/
