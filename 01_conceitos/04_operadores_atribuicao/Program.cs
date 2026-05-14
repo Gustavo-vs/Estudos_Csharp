@@ -30,6 +30,12 @@ class Program
 
         Console.WriteLine("-------------------");
 
+        x *= 1;
+        Console.WriteLine("Valor atual de x após o x*=1: " + x);
+        Console.ReadKey();
+
+        Console.WriteLine("-------------------");
+
         
 
     }
