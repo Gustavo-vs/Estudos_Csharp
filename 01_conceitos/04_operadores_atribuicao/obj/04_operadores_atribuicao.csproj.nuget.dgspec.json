@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj": {}
+    "C:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj": {
+    "C:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj",
+        "projectUniqueName": "C:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj",
         "projectName": "04_operadores_atribuicao",
-        "projectPath": "c:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj",
+        "projectPath": "C:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\04_operadores_atribuicao.csproj",
         "packagesPath": "C:\\Users\\sgust\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\obj\\",
+        "outputPath": "C:\\Users\\sgust\\OneDrive\\Desktop\\c#_impacta\\01_conceitos\\04_operadores_atribuicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sgust\\AppData\\Roaming\\NuGet\\NuGet.Config"
