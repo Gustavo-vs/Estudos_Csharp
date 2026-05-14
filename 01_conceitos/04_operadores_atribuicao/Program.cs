@@ -30,11 +30,22 @@ class Program
 
         Console.WriteLine("-------------------");
 
-        x *= 1;
+        x *= 10;
         Console.WriteLine("Valor atual de x após o x*=1: " + x);
         Console.ReadKey();
 
         Console.WriteLine("-------------------");
+
+
+        //Podemos Utilizar com Strings também
+
+        String alfabeto = "ABC";
+        alfabeto += "DEF";
+        Console.WriteLine(alfabeto);
+        Console.ReadKey();
+        Console.WriteLine("----------------");
+
+
 
         
 
